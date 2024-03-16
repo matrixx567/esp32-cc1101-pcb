@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CC1101")(type "Legacy")(uri "D:/software/kicad-libs/KiCad/wireless-modules.lib")(options "")(descr ""))
+  (lib (name "ESP32_mini")(type "Legacy")(uri "D:/software/kicad-libs/ESP32_mini_KiCad_Library/ESP32_mini.lib")(options "")(descr ""))
+)
